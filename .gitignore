@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Secrets / Keys
+client_secret.json
+
+# IDEs / Project Files
+.vscode/
+.idea/
+.pytest_cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
